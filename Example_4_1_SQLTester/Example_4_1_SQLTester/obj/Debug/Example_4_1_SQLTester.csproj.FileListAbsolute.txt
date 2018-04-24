@@ -1,0 +1,10 @@
+C:\Users\adria\Documents\Visual Studio 2017\Projects\C# and Database\Example_4_1_SQLTester\Example_4_1_SQLTester\bin\Debug\Example_4_1_SQLTester.exe.config
+C:\Users\adria\Documents\Visual Studio 2017\Projects\C# and Database\Example_4_1_SQLTester\Example_4_1_SQLTester\bin\Debug\Example_4_1_SQLTester.exe
+C:\Users\adria\Documents\Visual Studio 2017\Projects\C# and Database\Example_4_1_SQLTester\Example_4_1_SQLTester\bin\Debug\Example_4_1_SQLTester.pdb
+C:\Users\adria\Documents\Visual Studio 2017\Projects\C# and Database\Example_4_1_SQLTester\Example_4_1_SQLTester\obj\Debug\Example_4_1_SQLTester.csprojResolveAssemblyReference.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\C# and Database\Example_4_1_SQLTester\Example_4_1_SQLTester\obj\Debug\Example_4_1_SQLTester.FrmSQLTester.resources
+C:\Users\adria\Documents\Visual Studio 2017\Projects\C# and Database\Example_4_1_SQLTester\Example_4_1_SQLTester\obj\Debug\Example_4_1_SQLTester.Properties.Resources.resources
+C:\Users\adria\Documents\Visual Studio 2017\Projects\C# and Database\Example_4_1_SQLTester\Example_4_1_SQLTester\obj\Debug\Example_4_1_SQLTester.csproj.GenerateResource.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\C# and Database\Example_4_1_SQLTester\Example_4_1_SQLTester\obj\Debug\Example_4_1_SQLTester.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\Visual Studio 2017\Projects\C# and Database\Example_4_1_SQLTester\Example_4_1_SQLTester\obj\Debug\Example_4_1_SQLTester.exe
+C:\Users\adria\Documents\Visual Studio 2017\Projects\C# and Database\Example_4_1_SQLTester\Example_4_1_SQLTester\obj\Debug\Example_4_1_SQLTester.pdb
